@@ -1,0 +1,932 @@
+
+<link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@600&display=swap" rel="stylesheet">
+/* 
+  ##Device = Desktops
+  ##Screen = 1281px to higher resolution desktops
+*/
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+*{
+    font-family: 'Quicksand', sans-serif;
+}
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #000000;
+    color: #fff;
+}
+.img_0{
+    position: absolute;
+    width: 171.63px;
+    height: 18.39px;
+    left: 171.37px;
+    top: 90.24px;
+    
+    background: #FFFFFF;
+    }
+.pull-left{
+    float: left;
+}
+.m-t-5{
+    margin-top: 5px;
+}
+.m-b-5{
+    margin-bottom: 5px;
+}
+.img-margin2{
+    margin-top: -220px;
+}
+.img-margin1{
+    margin-top: -170px;
+}
+.margin-auto{
+    margin: 0 auto;
+}
+.section_1 {
+    background-image: url(/img/Ellipse\ 51.png);
+    box-sizing: border-box;
+    background-repeat: revert;
+    box-sizing: border-box;
+    backdrop-filter: blur(5px);
+}
+.first_heading {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 29px;
+    line-height: 48px;
+    margin-top: 100px;
+    color: white;
+}
+
+.div_playstore {
+    width: 230px;
+    height: 76.74px;
+    background: #FFFFFF;
+    border-radius: 8px;
+}
+
+.div_appstore {
+    width: 230px;
+    height: 76.74px;
+    background: #FFFFFF;
+    border-radius: 8px;
+    margin-left: -35px;
+}
+
+.row_2 {
+    margin-top: 40px;
+}
+
+a .img_1  {
+    width: 100%;
+    
+}
+ a .img_2 {
+    width: 100%;
+    margin-left: 5px;
+}
+.img-1-top{
+    position: relative;
+    z-index: 1;
+    margin-top: 160px;
+}
+.img-2-top{
+    position: relative;
+     z-index: 2;
+     margin-left: -170px;
+      margin-top: 20px;
+}
+.img-3-top{
+    position: relative;
+     z-index: 1;
+     margin-left: -260px;
+      margin-top: 160px;
+}
+/*--tab start--*/
+.tabs-to-dropdown .nav-wrapper {
+  padding: 15px;
+}
+div#pills-tabContent p{
+    font-size: 25px;
+
+}
+div#pills-tabContent{
+    margin: 50px 0px 0px 10px;
+
+}
+a#pills-company-tab {
+    font-size: 19px;
+    font-weight: 600;
+}
+a#pills-product-tab {
+    font-size: 19px;
+    font-weight: 600;
+}
+a#pills-news-tab {
+    font-size: 19px;
+    font-weight: 600;
+}
+.nav-item > .nav-link
+{
+    font-size: 19px;
+    font-weight: 600;
+    color: var(--darkgreen);
+}
+.tabs-to-dropdown .nav-wrapper a {
+  color: var(--darkgreen);
+}
+
+.nav-pills .nav-link.active {
+  background-color: #fff;
+    color: #0d6efd;
+}
+
+.tabs-to-dropdown .nav-pills li:not(:last-child) {
+  margin-right: 30px;
+}
+
+.tabs-to-dropdown .tab-content .container-fluid {
+  max-width: 1250px;
+  padding-top: 70px;
+  padding-bottom: 70px;
+}
+
+.tabs-to-dropdown .dropdown-menu {
+  border: none;
+  box-shadow: 0px 5px 14px rgba(0, 0, 0, 0.08);
+}
+
+.tabs-to-dropdown .dropdown-item {
+  padding: 14px 28px;
+}
+
+.tabs-to-dropdown .dropdown-item:active {
+  color: var(--white);
+}
+
+.nextDecade{
+    position: relative;
+    margin-bottom: 320px;
+}
+.ellipse-top7{
+    font-family: "Proxima Nova Semibold" !important;
+    font-family: "Proxima Nova Semibold" !important;
+    position: absolute;
+    top: -260%;
+    z-index: -1;
+    width: 100%;
+    text-align: center;
+}
+
+img {
+    vertical-align: revert;
+    border-style: none;
+}
+.text{
+    font-family: "Proxima Nova Semibold" !important;
+    font-size: 40px;
+    color: yellow;
+    text-align: center;
+    z-index: 99;
+}
+}
+/*---*/
+.row_1{
+    z-index: 100;
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+}
+.class_888{
+    margin-top: 8px;
+}
+.div_cards_1 {
+    width: 303.81px;
+    margin-top: 140px;
+    background: #fff;
+    border-radius: 30px;
+    border: 15px solid #212529f7;
+    margin-right: -35px;
+}
+.div_cards_2 {
+    width: 450px;
+    background: #FFFFFF;
+    border-radius: 40px;
+    border: 20px solid #212529f7;
+    margin-top: 56px;
+    z-index: 100;
+}
+
+.ract_img {
+    height: 173px;
+    margin-top: -26px;
+    width: 95%;
+    margin-left: 8px;
+}
+.div_cards_3 {
+    width: 303.81px;
+    margin-top: 145px;
+    background: #fff;
+    border-radius: 30px;
+    border: 15px solid #212529f7;
+    margin-left: -39px;
+}
+.img_4 {
+    width: 93%;
+    margin-top: 25px;
+    background: #000;
+    height: auto;
+    border-radius: 20px 20px 0px 0px;
+    margin-left: 12px;
+}
+.img_5 {
+    width: 94%;
+    margin-top: 25px;
+    height: 312px;
+    margin-left: 7px;
+}
+.wraper_para {
+    font-size: 16px;
+    line-height: 18px;
+    margin-top: 16px;
+    color: black;
+    font-weight: 600;
+}
+.wraper_para_2 {
+    font-size: 16px;
+    line-height: 18px;
+    margin-top: 16px;
+    color: black;
+    font-weight: 600;
+    margin-left: -12px;
+}
+.vict_img_1 {
+    width: 23px;
+    margin-left: 14px;
+    margin-top: 0;
+}
+.victr_img {
+    margin-left: 29px;
+    margin-top: 0px;
+    width: 52.04px;
+    height: 51.89px;
+}
+.vict_img {
+    margin-top: 0px;
+    margin-left: -39px;
+    width: 18px;
+    height: 20px;
+}
+.vict_img_4 {
+    margin-left: 50px;
+    margin-top: 0px;
+    width: 23px;
+}
+.row_3 {
+    padding: 10px;
+    width: 359px;
+    height: 83px;
+    margin-left: 12px;
+    background: black;
+    border-radius: 0px 0px 20px 20px;
+}
+.wrapper_para_2 {
+    position: absolute;
+    margin-left: 30px;
+    font-size: 15px;
+    margin-top: -15px;
+}
+.imgg_unplug {
+    margin-top: -215px;
+    margin-left: 30px;
+}
+.wrapper_para_3 {
+    margin-top: -137px;
+    margin-left: 100px;
+    font-size: 17px;
+}
+.wrapper_para_4 {
+    margin: 20px;
+    font-size: 13px;
+    line-height: 18px;
+    word-spacing: 3px;
+    margin-top: 15px;
+}
+.count_2 {
+    background: url("../img/Mask_group.png") , linear-gradient(180deg, #27ABF6 0%, #1A4CFF 100%) ;
+    background-size: cover;
+    margin-top: -255px;
+    height: 845px;
+    z-index: 100;
+    position:absolute;
+}
+.raw{
+    margin-top: 70px;
+}
+.wraper_heading_1 {
+    font-weight: 600;
+    font-size: 81.2262px;
+    display: flex;
+    margin-top: 92px;
+}
+.wraper_heading_2{
+    font-weight: 500;
+    font-size: 38px;
+    display: flex;
+    margin-top: 20px;
+}
+.wrapper_para_5{
+    font-size: 25px;
+    margin-top: 100px;
+}
+.rowrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: auto;
+}
+.count_3{
+    background-image: url("../img/Mask_group.png") , linear-gradient(180deg, #6927F6 0%, #490EC6 100%) ;
+    background-size: cover;
+    margin-top: 590px;
+    padding: 110px 0px;
+}
+.count_3_row_3{    
+    margin-top: 67px;
+    height: 90%;
+    font-size: 25px;
+    width: 60%;
+}
+.sec_3_head_1{
+    font-size: 80px;
+    margin-top: 460px;
+    margin-left: -25px;
+}
+.sec_3_div_1{
+    background-color: rgb(254, 250, 243);
+    color: #000;
+    text-align: center;
+    border-radius: 10px;
+}
+.sec_3_div_2:hover{
+    background-color: rgb(254, 250, 243);
+    color: #000;
+    text-align: center;
+    border-radius: 10px;
+}
+.sec_3_div_3:hover{
+    background-color: rgb(254, 250, 243);
+    color: #000;
+    text-align: center;
+    border-radius: 10px;
+}
+.sec_3_row_1{
+    margin-top: 40px;
+}
+.sec_3_head_2{
+    font-size: 35px;
+    margin-top: 8px;
+}
+.sec_3_head_3{
+    font-size: 35px;
+    margin-top: 8px;
+}
+.sec_3_para_1{
+    font-size: 32px;
+    margin-top: 100px;
+    font-family: 'Poppins';
+}
+.count_4{
+    background-image: url("../img/Mask_group.png") , linear-gradient(180deg, #34B861 0%, #0E9E73 100%) ;
+    background-size: cover;
+    background-color: #5cab4d;
+    height: 900px;
+}
+.count_4_row_4{
+    margin-top: 50px;
+}
+.sec_4_head_1{
+    font-size: 72px;
+    margin-right: 175px;
+    margin-top: 125px;
+}
+.sec_4_para_1{
+    font-size: 34px;
+    margin-top: 185px;
+}
+.section_5 .c1{
+    position: sticky;
+    top: 0;
+}
+.section_5 .c2{
+    position: sticky;
+    background-color: #000000;
+    top: 1em;
+}
+.section_5 .c3{
+    position: sticky;
+    background-color: #000000;
+    top: 1.5em;
+}
+.section_5 .c4{
+    position: sticky;
+    background-color: #000000;
+}
+.sec_5_head_1{
+    font-size: 32px;
+    font-weight: 600;
+    margin: 228px 228px 10px 228px;
+}
+.sec_5_para_1{
+    font-size: 20px;
+    margin: 54px 190px 0px 234px;
+}
+
+.count_6{
+    background-image: url("../img/Mask_group.png");
+    background-size: cover;
+    background-color: #2F2F2F;
+    height: 750px;
+    margin-bottom: 0px;
+}
+.sec_6_head_1{
+    font-family: 'Poppins';
+    font-Size: 70px;
+    line-height: 98px;
+    margin-top: 44px;
+}
+.sec_6_para_1{
+    font-size: 25px;
+    margin-top: 70px;
+    font-family: 'Poppins';
+}
+.count_7{
+    width: 100%;
+    height: 700px;
+    background-color: #000;
+    margin-top: 100px;
+}
+.imgs{
+    width: 350px;
+    margin-top: 50px;
+    height: 100px;
+}
+.footer_heading_1{
+    font-size: 27px;
+    margin-top: 45px;
+}
+.footer_para_1{
+    margin-top: 20px;
+}
+.footer_para_2{
+    margin-top: 40px;
+}
+.div_sm_1{
+    margin-top: 87px;
+}
+.div_sm_2{
+    margin-top: 50px;
+}
+
+
+@media only screen and (max-width: 600px) {
+    .section-1{
+        height: auto;
+        margin-bottom: 10px;
+    }
+    .first_heading {
+        font-size: 30px;
+        line-height: 33px;
+        margin-top: 30px;
+    }
+
+    .row_2 {
+        margin-top: 0px;
+    }
+
+    .div_playstore {
+            margin-top: 20px;
+            margin-left: 35px;
+            display: inline-flex;
+    }
+
+    .div_appstore {
+            margin-top: 20px;
+            margin-left: 38px;
+            display: inline-flex;
+    }
+
+    .div_cards_1 {
+        margin-top: 0px;
+    }
+
+    .div_cards_2 {
+        margin-top: 0px;
+        width: 100%;
+    }
+    
+    .div_cards_3 {
+        margin-top: 0px;
+        width: 100%;
+        margin-left:0px;
+    }
+    .img_5 {
+        width: 100%;
+        margin-top: 0px;
+        height:auto;
+        margin-left: 0px;
+    }
+    .wraper_para {
+        margin: 10px;
+        font-size: 20px;
+        margin-bottom: 10px;
+    }
+    .row_3 {
+        width: 227px;
+    }
+    .vict_img_1 {
+        margin-left: 25px;
+        margin-top: -5px;
+        width: 20px;
+    }
+
+    .victr_img {
+        margin-left: 15px;
+        margin-top: 0px;
+        width: 50px;
+    }
+    .row_1{
+        margin-left:0px;
+        margin-top: 35px;
+    }
+    .vict_img {
+        margin-top: 0px;
+        width: 17px;
+        margin-left: -38px;
+    }
+
+    .vict_img_4 {
+        margin-left: 32px;
+        margin-top: -4px;
+        width: 21px;
+    }
+
+    .ract_img {
+        margin-top: -13px;
+        margin-bottom: 15px;
+    }
+
+    .wrapper_para_2 {
+        margin-top: 0px;
+    }
+    .imgg_unplug {
+        margin-top: -256px;
+        margin-left: 20px;
+    }
+    .wrapper_para_3 {
+        margin-top: -153px;
+        margin-left: 95px;
+        font-size: 15px;
+    }
+    .wrapper_para_4 {
+        margin: 20px;
+        font-size: 11px;
+        line-height: 18px;
+        margin-top: 15px;
+    }
+    .count_2 {
+        margin-top: 0px;
+        z-index: 0;
+        position:relative;
+        margin-left: 0px;
+        height: auto;
+    }
+    .raw{
+        margin-top: -20px;
+    }
+    .wraper_heading_1 {
+        margin-top: 25px;
+        margin-left: 0;
+        font-size: 56px;
+    }
+    .wraper_heading_2{
+        margin-top: 18px;
+        margin-left: 3px;
+        margin-bottom: 18px;
+    }
+    .wrapper_para_5{
+        font-size: 15px;
+        margin: 4px;
+    }
+    .count_3{
+        margin-top: 0%;
+        height: auto;
+    }
+    .count_3_row_3{
+        margin-top: 20px;
+        margin-bottom: 30px;
+        height: auto;
+    }
+    .sec_3_head_1{
+        font-size: 60px;
+        font-weight: 500;
+        margin-top: 0px;
+        margin-left: 0px;
+    }
+    .sec_3_row_1{
+        padding: 0px;
+        margin: 0px;;
+    }
+    .sec_3_div_1{
+        margin: 0;
+        padding-right: 0px;
+    }
+    .sec_3_para_1{
+        font-size: 20px;
+        margin: 15px;
+    }
+    .count_4{
+        height: auto;
+    }
+    .count_4_row_4{
+        margin-top: 0px;
+        margin-bottom: 40px;
+    }
+    .sec_4_head_1{
+        margin: 0px;
+        margin-top: 25px;
+        margin-right: 0;
+        margin-bottom: 20px;
+        text-align: center;
+    }
+    .sec_4_para_1{
+        font-size: 21px;
+        margin-top: 35px;
+        margin: 20px;
+    }
+    .section{
+        position:sticky;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .count{
+        grid-template-columns: 1fr 1fr;
+        padding: 3rem calc((100vw - 1300px) / 2);
+    }
+    .section_5 {
+        width: 100%;
+        height: auto;
+        margin-top: 30px;
+        display: block;
+    }
+    .sec_5_head_1{
+        font-size: 32px;
+        font-weight: 600;
+        margin: 0;
+        text-align: center;
+    }
+    .sec_5_para_1{
+        font-size: 18px;
+        margin: 14px;
+    }
+    
+    .count_6{
+        height: auto;
+    }
+    .sec_6_head_1{
+        font-Size: 45px;
+        text-align: center;
+        line-height: 0;
+        margin-top: 70px;
+        margin-left: 0px;
+    }
+    .sec_6_para_1{
+        font-size: 16px;
+        margin: 4px;
+        margin-top: 55px;
+        margin-bottom: 60px;
+    }
+    .imgs{
+        width: auto;
+        margin-top: 10px;
+        height: auto;
+    }
+    .footer_heading_1{
+        font-size: 18px;
+        margin-top: 15px;
+    }
+    .footer_para_1{
+        margin-top: 15px;
+    }
+    .footer_para_2{
+        margin-top: 10px;
+    }
+    .div_sm_1{
+        margin-top: 17px;
+    }
+    .div_sm_2{
+        margin-top: 10px;
+    }
+}
+
+/* 
+  ##Device = Desktops
+  ##Screen = 1281px to higher resolution desktops
+*/
+
+@media (min-width: 1281px) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Laptops, Desktops
+  ##Screen = B/w 1025px to 1280px
+*/
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Tablets, Ipads (portrait)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Tablets, Ipads (landscape)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+  
+  /* CSS */
+  
+}
+@media (min-width: 1281px) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Laptops, Desktops
+  ##Screen = B/w 1025px to 1280px
+*/
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Tablets, Ipads (portrait)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Tablets, Ipads (landscape)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+  .img-2-top{
+    position: relative;
+     z-index: 2;
+     margin-left: 0px !important;
+     margin-top: -150px;
+}
+.img-3-top{
+    position: relative;
+    z-index: 2;
+    margin-left: 0px !important;
+    margin-top: -164px;
+}
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+  .img-2-top{
+    position: relative;
+     z-index: 2;
+     margin-left: 0px !important;
+     margin-top: -150px;
+}
+.img-3-top{
+    position: relative;
+    z-index: 2;
+    margin-left: 0px !important;
+    margin-top: -164px;
+}
+  /* CSS */
+  .img-1-top{
+    position: relative;
+    z-index: 1;
+    margin-top: 0px;
+}
+.img-2-top{
+    position: relative;
+     z-index: 2;
+     margin-left: 0px !important;
+     margin-top: -150px;
+}
+.img-3-top{
+    position: relative;
+    z-index: 2;
+    margin-left: 0px !important;
+    margin-top: -164px;
+}
+.count_2 {
+    margin-top: -110px;
+}
+a .img_2 {
+    width: 100%;
+   margin-left: 0px;  
+   margin-top: 5px;  
+}
+}
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+  
+  .img-1-top{
+    position: relative;
+    z-index: 1;
+    margin-top: 0px;
+}
+.img-2-top{
+    position: relative;
+     z-index: 2;
+     margin-left: 0px !important;
+     margin-top: -150px;
+}
+.img-3-top{
+    position: relative;
+    z-index: 2;
+    margin-left: 0px !important;
+    margin-top: -164px;
+}
+.count_2 {
+    margin-top: -110px;
+}
+a .img_2 {
+    width: 100%;
+   margin-left: 0px;  
+   margin-top: 5px;  
+}
+@media (min-width: 1280px) {
+  .tabs-to-dropdown .nav-wrapper {
+    padding: 15px 0px;
+  }
+}
+
+.mt-4
+{
+    margin-top: 10rem !important;
+}
